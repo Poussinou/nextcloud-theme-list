@@ -2,11 +2,11 @@
 
 First of all, visit the customization section in the official store [here](https://apps.nextcloud.com/categories/customization). You'll find for example a pride theme, or a tool to randomly change the background with unsplash.
 
-## List of global themes
+## List of available themes
 
 Be careful, some of them might be very old, probably too old for your instance, and I haven't tested them all.
 
-* [Breeze Dark theme](https://github.com/mwalbeck/nextcloud-breeze-dark)
+* [Breeze Dark theme](https://github.com/mwalbeck/nextcloud-breeze-dark), link to the Nextcloud appstore [here](https://apps.nextcloud.com/apps/breezedark)
 * [Dark theme](https://github.com/Li1ith/nextcloud_dark_theme)
 * [Elemental theme](https://github.com/DanielLucia/nextcloud-theme-elemental)
 * [Material Dark theme](https://github.com/Chais/nextcloud-themes)
